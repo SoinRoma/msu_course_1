@@ -1,0 +1,2 @@
+Summa = 13.000000
+Proizvedenie = 42.000000
