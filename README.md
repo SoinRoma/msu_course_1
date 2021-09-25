@@ -1,7 +1,7 @@
 # МГУ 1 Курс
 
 Практикум на ЭВМ содержит следующие задчаи:
-+ [a link](https://github.com/SoinRoma/MSU_1Course/tree/master/BitOperations)
++ [Битовые операции](https://github.com/SoinRoma/MSU_1Course/tree/master/BitOperations)
 + Битовые операции
 + Дискретная математика
 + Задачи с геометрией
