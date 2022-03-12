@@ -1,5 +1,6 @@
-# МГУ 1 Курс
+<h1 align="center">MSU-1</h1>
 
+## Описание
 Практикум на ЭВМ содержит следующие задчаи:
 + [Битовые операции](https://github.com/SoinRoma/MSU_1Course/tree/master/BitOperations)
 + [Дискретная математика](https://github.com/SoinRoma/MSU_1Course/tree/master/DiscretMath)
@@ -10,5 +11,10 @@
 
 ## Используемые технологии
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++5&logoColor=c++)
+
+### Запуск проекта
+```
+Разархивировать проект и запустить в IDE
+```
 
 
